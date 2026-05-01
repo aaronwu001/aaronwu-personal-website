@@ -9,8 +9,8 @@
     "isInternal": false,
     "thumbnail": "/images/projects/ai-gateway-thumb.png",
     "resources": {
-      "github": "https://github.com/aaronwu/ai-gateway",
-      "architecture": "/images/projects/ai-gateway-arch.png"
+      "github": "https://github.com/aaronwu001/AI-Gateway",
+      "architecture": "/images/projects/architecture-placeholder.png"
     }
   },
   {
@@ -23,8 +23,8 @@
     "isInternal": false,
     "thumbnail": "/images/projects/flashform-thumb.png",
     "resources": {
-      "github": "https://github.com/aaronwu/flashform",
-      "architecture": "/images/projects/flashform-arch.png"
+      "github": "https://github.com/aaronwu001/flashform",
+      "architecture": "/images/projects/architecture-placeholder.png"
     }
   }
 ]
