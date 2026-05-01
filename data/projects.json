@@ -1,0 +1,30 @@
+[
+  {
+    "id": "distributed-ai-gateway",
+    "title": "Distributed AI Gateway",
+    "tagline": "High-Concurrency Rate Limiting in Go",
+    "description": "Engineered a highly concurrent API gateway to protect LLM endpoints. Implemented a Token Bucket rate limiter using Redis & Lua scripting to guarantee atomicity and prevent race conditions.",
+    "tags": ["Go", "Redis", "Lua", "API Gateway", "Rate Limiting"],
+    "featured": true,
+    "isInternal": false,
+    "thumbnail": "/images/projects/ai-gateway-thumb.png",
+    "resources": {
+      "github": "https://github.com/aaronwu/ai-gateway",
+      "architecture": "/images/projects/ai-gateway-arch.png"
+    }
+  },
+  {
+    "id": "flashform",
+    "title": "FlashForm",
+    "tagline": "High-Throughput Seckill Backend",
+    "description": "Developed a robust backend system designed for flash sales. Leveraged Spring Boot, Redis for caching, and RabbitMQ for asynchronous message queuing to handle sudden traffic surges without overselling.",
+    "tags": ["Java", "Spring Boot", "RabbitMQ", "Redis", "Distributed Systems"],
+    "featured": true,
+    "isInternal": false,
+    "thumbnail": "/images/projects/flashform-thumb.png",
+    "resources": {
+      "github": "https://github.com/aaronwu/flashform",
+      "architecture": "/images/projects/flashform-arch.png"
+    }
+  }
+]

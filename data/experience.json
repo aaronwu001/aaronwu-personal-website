@@ -1,0 +1,20 @@
+[
+  {
+    "company": "AMD",
+    "role": "Systems Infra Intern",
+    "start": "2025-05",
+    "end": "Present",
+    "description": "Architected a scalable GraphRAG-based AI agent. Engineered prompt-driven retrieval pipelines interacting with graph databases to automate codebase understanding across 6 languages.",
+    "tags": ["GraphRAG", "Python", "Graph Databases", "AI Infrastructure"],
+    "details": "Architected a scalable GraphRAG-based AI agent. Engineered prompt-driven retrieval pipelines interacting with graph databases to automate codebase understanding across 6 languages."
+  },
+  {
+    "company": "QT Medical",
+    "role": "R&D Intern",
+    "start": "2024-05",
+    "end": "2024-08",
+    "description": "Deployed an end-to-end ML data annotation platform on AWS (EC2, S3, RDS) in 12 days. Implemented secure backend architecture (SHA-256) and automated Python ETL workflows.",
+    "tags": ["AWS", "Python", "ETL", "Security", "ML Platform"],
+    "details": "Deployed an end-to-end ML data annotation platform on AWS (EC2, S3, RDS) in 12 days. Implemented secure backend architecture (SHA-256) and automated Python ETL workflows."
+  }
+]

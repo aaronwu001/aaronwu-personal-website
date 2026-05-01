@@ -1,0 +1,12 @@
+{
+  "name": "Aaron Wu",
+  "headline": "Building High-Throughput, Low-Latency Distributed Systems for AI.",
+  "subHeadline": "I'm Aaron Wu. I bridge the gap between Data Science and robust Backend Infrastructure. Focused on managing concurrency, optimizing data pipelines, and protecting AI services from traffic spikes.",
+  "status": "🚀 Actively looking for Summer 2026 Internships or 2027 New Grad roles in Backend / Cloud Infrastructure.",
+  "avatar": "/images/avatar.png",
+  "social": {
+    "github": "https://github.com/aaronwu",
+    "linkedin": "https://linkedin.com/in/aaronwu",
+    "email": "aaron.wu@example.com"
+  }
+}
