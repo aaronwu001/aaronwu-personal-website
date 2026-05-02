@@ -1,13 +1,14 @@
 "use client"
 import { motion } from "framer-motion"
 import siteConfig from "@/data/site.json"
-import { Mail } from "lucide-react"
+import { Mail, Rss } from "lucide-react"
 import { Github, Linkedin } from "@/components/ui/icons"
 
 const iconMap = {
   github: Github,
   linkedin: Linkedin,
   mail: Mail,
+  rss: Rss,
 }
 
 export function Contact() {

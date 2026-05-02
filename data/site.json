@@ -18,7 +18,11 @@
     {
       "platform": "Email",
       "url": "mailto:aaronwu.official@gmail.com",
-      "icon": "mail"
+    },
+    {
+      "platform": "RSS Feed",
+      "url": "/rss.xml",
+      "icon": "rss"
     }
   ]
 }
