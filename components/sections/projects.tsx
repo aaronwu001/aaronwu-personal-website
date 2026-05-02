@@ -33,7 +33,7 @@ export function Projects() {
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Featured Projects</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            A selection of my recent work focusing on distributed systems and backend infrastructure.
+            A showcase of my systems engineering work—tackling high-concurrency bottlenecks, distributed rate limiting, and peak-load shaving.
           </p>
         </motion.div>
 

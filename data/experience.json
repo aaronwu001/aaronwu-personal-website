@@ -1,20 +1,58 @@
 [
   {
     "company": "AMD",
-    "role": "Systems Infra Intern",
+    "role": "Systems Infrastructure Engineer Intern",
     "start": "2025-05",
-    "end": "Present",
-    "description": "Architected a scalable GraphRAG-based AI agent. Engineered prompt-driven retrieval pipelines interacting with graph databases to automate codebase understanding across 6 languages.",
-    "tags": ["GraphRAG", "Python", "Graph Databases", "AI Infrastructure"],
-    "details": "Architected a scalable GraphRAG-based AI agent. Engineered prompt-driven retrieval pipelines interacting with graph databases to automate codebase understanding across 6 languages."
+    "end": "2025-08",
+    "description": "Architected a scalable GraphRAG-based AI agent to automate codebase understanding across 6 languages. Engineered a prompt-driven graph retrieval pipeline and optimized memory management with a plan-and-act algorithm.",
+    "tags": [
+      "GraphRAG",
+      "Cypher",
+      "LangChain",
+      "AI Infrastructure"
+    ],
+    "details": "Rebuilt agent for company-wide codebase understanding and generation. Enhanced explainability by controlling memory on Cypher generation & tracking task/context with plan-and-act algorithm. Conducted performance evaluations to drive system design decisions."
   },
   {
-    "company": "QT Medical",
+    "company": "Rutgers University",
+    "role": "Research Assistant (Federated Learning)",
+    "start": "2025-09",
+    "end": "2026-01",
+    "description": "Conducted empirical experiments on federated hyperparameter learning algorithms, specifically addressing challenges with heterogeneous datasets and data sparsity.",
+    "tags": [
+      "Federated Learning",
+      "Python",
+      "Machine Learning",
+      "Research"
+    ],
+    "details": "Built data processing and evaluation pipelines using Scikit-Learn, Pandas, and NumPy to benchmark algorithm performance on the CIFAR-10 dataset. Validated algorithmic robustness through rigorous statistical analysis."
+  },
+  {
+    "company": "Rutgers University",
+    "role": "Technical Lead",
+    "start": "2025-01",
+    "end": "2025-05",
+    "description": "Directed the architectural shift toward a real-time voice assistant app. Engineered a serverless RAG pipeline utilizing AWS Lambda and Pinecone vector database for automated daily data ingestion.",
+    "tags": [
+      "AWS Lambda",
+      "Pinecone",
+      "RAG",
+      "Serverless Architecture"
+    ],
+    "details": "Mentored beginner developers in Agile/Scrum methodologies. Built a personalized, multi-source news insights application, setting up scalable embedding retrieval to position the app for launch."
+  },
+  {
+    "company": "QT Medical, Inc.",
     "role": "R&D Intern",
-    "start": "2024-05",
+    "start": "2024-07",
     "end": "2024-08",
-    "description": "Deployed an end-to-end ML data annotation platform on AWS (EC2, S3, RDS) in 12 days. Implemented secure backend architecture (SHA-256) and automated Python ETL workflows.",
-    "tags": ["AWS", "Python", "ETL", "Security", "ML Platform"],
-    "details": "Deployed an end-to-end ML data annotation platform on AWS (EC2, S3, RDS) in 12 days. Implemented secure backend architecture (SHA-256) and automated Python ETL workflows."
+    "description": "Designed and deployed an end-to-end ML data annotation platform on AWS (EC2, S3, RDS) in 12 days. Automated Python ETL workflows to securely process ECG data, increasing doctor efficiency by 70%.",
+    "tags": [
+      "AWS",
+      "Python",
+      "ETL",
+      "System Security"
+    ],
+    "details": "Saved 3+ hours of weekly manual file management tasks. Implemented secure backend architecture with SHA-256 data hashing and optimized system usability through rapid, user-feedback-driven agile iterations."
   }
 ]

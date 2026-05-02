@@ -1,7 +1,7 @@
 {
   "name": "Aaron Wu",
   "headline": "Building High-Throughput, Low-Latency Distributed Systems for AI.",
-  "subHeadline": "I'm Aaron Wu. I bridge the gap between Data Science and robust Backend Infrastructure. Focused on managing concurrency, optimizing data pipelines, and protecting AI services from traffic spikes.",
+  "subHeadline": "I'm Aaron Wu. Heavily inspired by system design literature, I focus on turning complex ML research into production code and building high-concurrency infrastructure to protect AI services from traffic spikes.",
   "status": "🚀 Actively looking for Summer 2026 Internships or 2027 New Grad roles in Backend Engineering, AI Infrastructure, and Distributed Systems.",
   "avatar": "/images/profile.jpg",
   "socialLinks": [
@@ -17,7 +17,7 @@
     },
     {
       "platform": "Email",
-      "url": "mailto:aaron.wu@example.com",
+      "url": "mailto:aaronwu.official@gmail.com",
       "icon": "mail"
     }
   ]

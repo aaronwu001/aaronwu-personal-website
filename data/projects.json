@@ -1,10 +1,16 @@
 [
   {
     "id": "distributed-ai-gateway",
-    "title": "Distributed AI Gateway",
-    "tagline": "High-Concurrency Rate Limiting in Go",
-    "description": "Engineered a highly concurrent API gateway to protect LLM endpoints. Implemented a Token Bucket rate limiter using Redis & Lua scripting to guarantee atomicity and prevent race conditions.",
-    "tags": ["Go", "Redis", "Lua", "API Gateway", "Rate Limiting"],
+    "title": "Distributed AI API Gateway",
+    "tagline": "Resilient AI Reverse Proxy & Rate Limiter",
+    "description": "Engineered a high-performance distributed AI Gateway in Go to route and protect LLM endpoints. Features a robust 3-layer rate limiting defense (Global, IP, Identity) using Redis Lua scripts for atomic operations, and supports highly resilient Fail-Open/Fail-Closed failure modes.",
+    "tags": [
+      "Go",
+      "Redis",
+      "Lua",
+      "API Gateway",
+      "Rate Limiting"
+    ],
     "featured": true,
     "isInternal": false,
     "thumbnail": "/images/projects/ai-gateway-thumb.png",
@@ -16,15 +22,59 @@
   {
     "id": "flashform",
     "title": "FlashForm",
-    "tagline": "High-Throughput Seckill Backend",
-    "description": "Developed a robust backend system designed for flash sales. Leveraged Spring Boot, Redis for caching, and RabbitMQ for asynchronous message queuing to handle sudden traffic surges without overselling.",
-    "tags": ["Java", "Spring Boot", "RabbitMQ", "Redis", "Distributed Systems"],
+    "tagline": "High-Performance Seckill Backend",
+    "description": "Architected a high-concurrency Seckill (flash sale) backend handling 1,000+ QPS with a 0.00% error rate. Utilizes Redis DECR for atomic quota enforcement to guarantee zero overselling, and RabbitMQ for asynchronous peak shaving to protect downstream PostgreSQL databases from thundering herds.",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "RabbitMQ",
+      "Redis",
+      "Distributed Systems"
+    ],
     "featured": true,
     "isInternal": false,
     "thumbnail": "/images/projects/flashform-thumb.png",
     "resources": {
-      "github": "https://github.com/aaronwu001/flashform",
+      "github": "https://github.com/aaronwu001/FlashForm",
       "architecture": "/images/projects/architecture-placeholder.png"
+    }
+  },
+  {
+    "id": "streaming-data-pipeline",
+    "title": "Real-Time Data Streaming Pipeline",
+    "tagline": "Containerized Big Data Orchestration",
+    "description": "Built an end-to-end real-time data streaming pipeline orchestrating containerized services via Docker Compose. Leverages Apache Kafka for robust message brokering, Apache Airflow for DAG orchestration, Apache Spark for distributed data processing, and Cassandra for NoSQL storage.",
+    "tags": [
+      "Kafka",
+      "Spark",
+      "Airflow",
+      "Cassandra",
+      "Docker"
+    ],
+    "featured": true,
+    "isInternal": false,
+    "thumbnail": "/images/projects/data-pipeline-thumb.png",
+    "resources": {
+      "github": "https://github.com/aaronwu001/Real-time_Data_Streaming"
+    }
+  },
+  {
+    "id": "risk-freerx",
+    "title": "RiskFreeRX",
+    "tagline": "AI-Powered Medication Risk Analysis",
+    "description": "Developed an award-winning medication risk validation system (HackRU Winner). Extracted FDA data using Google Cloud Vision and LLM-powered NLP, delivering a secure API via AWS Lambda and Supabase.",
+    "tags": [
+      "AWS Lambda",
+      "React Native",
+      "Supabase",
+      "LLM NLP",
+      "Hackathon Winner"
+    ],
+    "featured": false,
+    "isInternal": false,
+    "thumbnail": "/images/projects/risk-freerx-thumb.png",
+    "resources": {
+      "github": "https://github.com/aaronwu001/RiskFreeRX"
     }
   }
 ]

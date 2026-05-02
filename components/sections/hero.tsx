@@ -21,10 +21,10 @@ export function Hero() {
               {siteConfig.status}
             </div>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 leading-tight">
-              Building High-Throughput,<br />
+              Architecting Resilient <br className="hidden md:block" />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-blue-600">
-                Low-Latency
-              </span> Distributed Systems for AI.
+                Backend Systems
+              </span> & Intelligent AI Agents.
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-8 mx-auto md:mx-0">
               {siteConfig.subHeadline}

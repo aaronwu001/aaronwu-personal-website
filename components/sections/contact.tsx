@@ -12,7 +12,7 @@ const iconMap = {
 
 export function Contact() {
   return (
-    <section id="contact" className="py-24 bg-background">
+    <section id="contact" className="py-24 bg-muted/30">
       <div className="container mx-auto px-4 max-w-3xl text-center">
         <motion.div
           initial={{ opacity: 0, scale: 0.95 }}
@@ -30,7 +30,7 @@ export function Contact() {
           </div>
           
           <a 
-            href={`mailto:${siteConfig.socialLinks.find(link => link.icon === 'mail')?.url.replace('mailto:', '') || 'hello@example.com'}`}
+            href={`mailto:${siteConfig.socialLinks.find(link => link.icon === 'mail')?.url.replace('mailto:', '') || 'aaronwu.official@gmail.com'}`}
             className="inline-flex h-12 items-center justify-center rounded-md bg-primary px-10 text-base font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 mb-12"
           >
             Say Hello

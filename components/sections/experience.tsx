@@ -14,7 +14,7 @@ export function Experience() {
           className="mb-16"
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Experience</h2>
-          <p className="text-muted-foreground text-lg">My professional journey bridging Data Science and Backend Infrastructure.</p>
+          <p className="text-muted-foreground text-lg">Real-world experience architecting resilient backend systems and enterprise AI infrastructure.</p>
         </motion.div>
 
         <div className="relative border-l-2 border-primary/20 ml-3 md:ml-0 md:pl-0">

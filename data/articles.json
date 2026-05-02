@@ -1,11 +1,119 @@
 [
   {
-    "id": "scaling-rate-limiters",
-    "title": "Scaling Rate Limiters with Redis and Lua",
-    "date": "2024-11-20",
-    "excerpt": "A deep dive into how I built the distributed token bucket algorithm for the AI Gateway project, avoiding race conditions in a high-concurrency environment.",
-    "url": "https://medium.com/@aaronwu/scaling-rate-limiters-with-redis-and-lua",
-    "tags": ["System Design", "Go", "Redis"],
-    "relatedProjects": ["distributed-ai-gateway"]
+    "id": "beyond-the-code",
+    "date": "2024-05-02",
+    "title": {
+      "en": "Beyond the Code: From 770 Resumes to AMD & Apple",
+      "zh": "超越程式碼：從 770 份履歷到 AMD 與 Apple"
+    },
+    "excerpt": {
+      "en": "A journey of dropping university prestige, reverse-engineering the job market, and using Interview-Prompted Learning to land top-tier infrastructure roles.",
+      "zh": "一段放棄大學光環、逆向工程求職市場，並利用面試驅動學習來獲得頂級基礎設施工程師職位的旅程。"
+    },
+    "tags": [
+      "Career Strategy",
+      "Reverse Engineering",
+      "Job-Board-Driven Learning",
+      "System Design",
+      "GTD & Productivity",
+      "AI Infrastructure"
+    ],
+    "isExternal": false,
+    "contentPaths": {
+      "en": "data/articles/beyond-the-code/en.md",
+      "zh": "data/articles/beyond-the-code/zh.md"
+    }
+  },
+  {
+    "id": "architecting-resilient-ai-gateway",
+    "date": "2026-02-20",
+    "title": {
+      "en": "Architecting a Resilient AI API Gateway: Deep Dive into Distributed Rate Limiting",
+      "zh": "架構具備韌性的 AI API 網關：分散式限流系統深度解析"
+    },
+    "excerpt": {
+      "en": "A deep dive into building a production-grade AI API Gateway in Go, exploring dual-layer caching, Redis Lua atomic operations, and Fail-Open vs. Fail-Closed distributed strategies.",
+      "zh": "深入探討如何用 Go 打造生產級別的 AI API 網關。解析雙層快取、Redis Lua 原子操作，以及 Fail-Open/Fail-Closed 的架構取捨。"
+    },
+    "tags": [
+      "Backend Engineering",
+      "System Design",
+      "Go",
+      "Redis"
+    ],
+    "isExternal": false,
+    "contentPaths": {
+      "en": "data/articles/architecting-resilient-ai-gateway/en.md",
+      "zh": "data/articles/architecting-resilient-ai-gateway/zh.md"
+    }
+  },
+  {
+    "id": "designing-for-the-surge",
+    "date": "2026-02-20",
+    "title": {
+      "en": "Designing for the Surge: Architectural Trade-offs in Building a High-Concurrency Ticketing System",
+      "zh": "為了巨大流量而設計：打造高併發秒殺系統的架構取捨"
+    },
+    "excerpt": {
+      "en": "An inside look at the engineering decisions behind FlashForm, exploring asynchronous load leveling, Redis mutex locks, and event-driven architecture.",
+      "zh": "深入剖析 FlashForm 高併發系統背後的工程決策。探討非同步削峰填谷、Redis 分散式鎖，以及事件驅動架構的技術取捨。"
+    },
+    "tags": [
+      "High Concurrency",
+      "System Design",
+      "Spring Boot",
+      "RabbitMQ",
+      "Redis"
+    ],
+    "isExternal": false,
+    "contentPaths": {
+      "en": "data/articles/designing-for-the-surge/en.md",
+      "zh": "data/articles/designing-for-the-surge/zh.md"
+    }
+  },
+  {
+    "id": "when-gui-disappears",
+    "date": "2026-01-12",
+    "title": {
+      "en": "When the GUI Disappears: Google UCP and the Shift to Protocol-First Commerce",
+      "zh": "當 GUI 消失：Google UCP 與「協定優先」商務的典範轉移"
+    },
+    "excerpt": {
+      "en": "Deconstructing Google's UCP through architectural perspectives: API as a Product, Schema.org, and managing High Concurrency Reads without Walled Gardens.",
+      "zh": "從架構師視角解構 Google UCP：API 即產品、語意化資料結構，以及無頭電商架構下的高併發讀取挑戰。"
+    },
+    "tags": [
+      "System Design",
+      "AI Agents",
+      "Backend Engineering"
+    ],
+    "isExternal": false,
+    "contentPaths": {
+      "en": "data/articles/when-gui-disappears/en.md",
+      "zh": "data/articles/when-gui-disappears/zh.md"
+    }
+  },
+  {
+    "id": "backing-up-brain-before-army",
+    "date": "2026-01-10",
+    "title": {
+      "en": "Backing Up My Brain Before the Army: Automating Blog Workflows",
+      "zh": "入伍前的腦袋備份：用 Python 與 AI 自動化發布工作流"
+    },
+    "excerpt": {
+      "en": "A realistic look at acting as the Architect to an AI Executor, fighting hallucinations to build a content pipeline 20 days before military enlistment.",
+      "zh": "真實紀錄：以架構師身分與 AI 的幻覺搏鬥，在登入國軍 Online 前 20 天，打造出全自動的 Markdown 發布管線。"
+    },
+    "tags": [
+      "Automation",
+      "AI Engineering",
+      "System Design",
+      "Python"
+    ],
+    "isExternal": false,
+    "contentPaths": {
+      "en": "data/articles/backing-up-brain/en.md",
+      "zh": "data/articles/backing-up-brain/zh.md"
+    }
   }
 ]

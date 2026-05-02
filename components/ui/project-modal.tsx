@@ -27,11 +27,10 @@ export function ProjectModal({ project, isOpen, onClose }: ProjectModalProps) {
   if (!isOpen || !project) return null
 
   // Determine available tabs
-  const tabs = [{ id: "overview", label: "Overview", icon: Code2 }]
-  
-  if (project.resources.architecture) {
-    tabs.push({ id: "architecture", label: "Architecture", icon: Server })
-  }
+  const tabs = [
+    { id: "overview", label: "Overview", icon: Code2 },
+    { id: "architecture", label: "Architecture", icon: Server }
+  ]
   if (project.resources.screenshots && project.resources.screenshots.length > 0) {
     tabs.push({ id: "screenshots", label: "Screenshots", icon: ExternalLink })
   }
@@ -142,18 +141,28 @@ export function ProjectModal({ project, isOpen, onClose }: ProjectModalProps) {
                 </div>
               )}
 
-              {activeTab === "architecture" && project.resources.architecture && (
+              {activeTab === "architecture" && (
                 <div className="space-y-4 animate-in fade-in slide-in-from-bottom-4 duration-500">
                   <h3 className="text-xl font-bold">System Architecture</h3>
-                  <div className="relative w-full min-h-[400px] rounded-xl overflow-hidden border border-border bg-muted/30 flex items-center justify-center p-4">
-                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                     <img 
-                       src={project.resources.architecture} 
-                       alt={`Architecture Diagram for ${project.title}`} 
-                       className="object-contain max-h-[600px]"
-                     />
-                  </div>
-                  <p className="text-sm text-center text-muted-foreground mt-2">Architecture Diagram for {project.title}</p>
+                  {(!project.resources.architecture || project.resources.architecture.includes('placeholder')) ? (
+                    <div className="relative w-full min-h-[400px] rounded-xl overflow-hidden border border-border border-dashed bg-muted/10 flex flex-col items-center justify-center p-8 text-center">
+                      <Server className="w-16 h-16 text-muted-foreground/30 mb-4" />
+                      <p className="text-lg font-medium text-foreground">No architecture diagram available</p>
+                      <p className="text-muted-foreground mt-2 max-w-md">There is no architecture drew out yet for this project. Check back later!</p>
+                    </div>
+                  ) : (
+                    <>
+                      <div className="relative w-full min-h-[400px] rounded-xl overflow-hidden border border-border bg-muted/30 flex items-center justify-center p-4">
+                         {/* eslint-disable-next-line @next/next/no-img-element */}
+                         <img 
+                           src={project.resources.architecture} 
+                           alt={`Architecture Diagram for ${project.title}`} 
+                           className="object-contain max-h-[600px]"
+                         />
+                      </div>
+                      <p className="text-sm text-center text-muted-foreground mt-2">Architecture Diagram for {project.title}</p>
+                    </>
+                  )}
                 </div>
               )}
 
