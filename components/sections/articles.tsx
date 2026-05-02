@@ -30,7 +30,7 @@ export function Articles() {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {featuredArticles.map((article, index) => {
             const isExternal = article.isExternal;
-            const href = isExternal ? article.url : `/articles/${article.id}`;
+            const href = isExternal ? (article as any).url : `/articles/${article.id}`;
             const title = typeof article.title === 'string' ? article.title : article.title.en;
             const excerpt = typeof article.excerpt === 'string' ? article.excerpt : article.excerpt.en;
 

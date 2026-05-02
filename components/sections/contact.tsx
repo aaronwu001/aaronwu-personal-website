@@ -25,16 +25,18 @@ export function Contact() {
             I'm currently looking for new opportunities. Whether you have a question or just want to say hi, my inbox is always open!
           </p>
 
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-muted/50 border border-border text-sm font-medium text-foreground mb-10">
-            <span>📍</span> Based in New York / New Jersey Area (Willing to Relocate)
+          <div className="flex flex-col items-center gap-4 mb-10">
+            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 text-sm font-medium text-primary">
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
+              </span>
+              Open for Summer 2026 Internships & 2027 New Grad roles.
+            </div>
+            <a href="mailto:aaronwu.official@gmail.com" className="text-xl md:text-2xl font-bold hover:text-primary transition-colors">
+              aaronwu.official@gmail.com
+            </a>
           </div>
-          
-          <a 
-            href={`mailto:${siteConfig.socialLinks.find(link => link.icon === 'mail')?.url.replace('mailto:', '') || 'aaronwu.official@gmail.com'}`}
-            className="inline-flex h-12 items-center justify-center rounded-md bg-primary px-10 text-base font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 mb-12"
-          >
-            Say Hello
-          </a>
 
           <div className="flex items-center justify-center gap-6">
             {siteConfig.socialLinks.map((link) => {

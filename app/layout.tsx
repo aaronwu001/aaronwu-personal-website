@@ -18,11 +18,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aaron (Hong-Si) Wu | Backend & AI Infrastructure Engineer",
+  title: "Aaron Wu | Backend Software Engineer",
   description: "Software Engineer specializing in Distributed Systems, AI Infrastructure, and high-throughput backend architecture. Rutgers Computer Science & Data Science.",
   keywords: ["Backend Engineer", "AI Infrastructure", "Distributed Systems", "Go Developer", "Rutgers University", "New York Tech", "Distributed AI Gateway", "FlashForm"],
   openGraph: {
-    title: "Aaron (Hong-Si) Wu | Backend & AI Infrastructure Engineer",
+    title: "Aaron Wu | Backend Software Engineer",
     description: "Software Engineer specializing in Distributed Systems, AI Infrastructure, and high-throughput backend architecture. Rutgers Computer Science & Data Science.",
     type: "website",
   }

@@ -33,8 +33,11 @@ export function Hero() {
               <a href="#projects" className="h-11 inline-flex items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90">
                 View Projects
               </a>
-              <a href="#contact" className="h-11 inline-flex items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground">
-                Get in Touch
+              <a href="/articles" className="h-11 inline-flex items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground">
+                Read Blog
+              </a>
+              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="h-11 inline-flex items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground">
+                Download Resume
               </a>
             </div>
           </motion.div>
