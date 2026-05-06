@@ -1,11 +1,11 @@
-> **TL;DR:** This is the story of how I made the terrifying decision to leave the safety and prestige of the University of Toronto, scrambled to figure out the US tech job market as an international student, and eventually built a system that landed me roles on **AMD’s Systems Infrastructure team** and **Apple’s Developer Publications Platform team**.
+> **TL;DR:** This is the story of how I made the terrifying decision to leave the safety and prestige of the University of Toronto, scrambled to figure out the US tech job market as an international student, and eventually built a system that landed me internship offers from AMD and Apple.
 
-Hi, I’m Aaron Wu, currently an international **senior** at Rutgers University. I’m writing this to share my journey of relentlessly navigating the tech industry to find my place in software engineering. Along the way, I stumbled a lot, explored constantly, and learned some incredibly valuable lessons.
+Hi, I’m Aaron Wu, an international senior at Rutgers University. I learned incredible lessons navigating the tech industry to find my place in software engineering, and I want to share that with you.
 
 I’m writing this with a few different people in mind:
 *   **If you are a hiring manager or recruiter:** I hope this gives you a clear window into who I am, how I operate, and how I tackle challenges.
 *   **If you are early in your career or on a similar path:** I hope my journey can offer you some inspiration or a new perspective.
-*   **If I sent this to you directly:** You might be reading this because you recently asked me a question about my job hunt or tech stack. I’ve always loved helping out and discussing these topics, so I think using this backstory is a great way to kickstart our conversation.
+*   **If I sent this to you:** You might be reading this because we recently discussed career growth. I’ve always loved helping out on this, so this backstory would be a great way to kickstart our conversation.
 
 ## The Pivot: Why I Left a Top-20 CS Program
 
