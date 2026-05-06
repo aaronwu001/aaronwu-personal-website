@@ -11,13 +11,15 @@ I’m writing this with a few different people in mind:
 
 When I transferred out of the University of Toronto's Computer Science program, my friends and family thought I was making a huge mistake. UofT is an incredible institution, and having that name on your resume is generally considered a golden ticket. 
 
-But I’ve always loved building stuff, and my ultimate vision is to keep building things but with extreme autonomy. To get there, I knew a school name wouldn't be enough; I needed undeniable proof of my competency. While at UofT, I watched upperclassmen building their own paths, and they taught me a crucial lesson: **Start with the end in mind.**
+But I’ve always loved building stuff, and my ultimate vision is to keep building things but with extreme autonomy. To get there, I knew a school name wouldn't be enough; I needed undeniable proof of my competency. While at UofT, I watched peers building their own paths, "How do I know what to do?" they said, "**Start with the end in mind.**
 
 So, I looked at my end goal and worked backward. To get the career I wanted, I needed early-career experience. To get that, I needed internships. It’s like rolling a snowball—you have to start as early as possible.
 
-When I checked the job boards, the bleak Canadian tech market was a harsh wake-up call. Combined with a rigid immigration points system, even a solid job didn't guarantee I could stay. The US offered a much higher ceiling, but strict CPT rules meant I had to complete two full semesters before legally working off-campus.
+When I checked the job boards, the bleak Canadian tech market was a harsh wake-up call. Combined with a rigid immigration points system, even a solid job didn't guarantee I could stay. 
 
 Sure, I could have just clung to my prestigious degree, prayed for a lucky break in a scarce market, or started my career outside the Americas to try again later. But I refused to leave my career to chance. I decided to change the battlefield entirely—trading my "school name advantage" for the chance to build my own credibility from scratch. Working backward from my end goal, it was the only move that made sense.
+
+The US offered a much higher ceiling, and Rutgers is the best affordable transfer option I've got. Should I try again next semester? The scrict CPT rules meant I had to complete two full semesters before legally working off-campus, and I wanted to start rolling the skowball early.
 
 **I had to move fast.**
 
