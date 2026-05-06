@@ -15,11 +15,13 @@ But I’ve always loved building stuff, and my ultimate vision is to keep buildi
 
 So, I looked at my end goal and worked backward. To get the career I wanted, I needed early-career experience. To get that, I needed internships. It’s like rolling a snowball—you have to start as early as possible.
 
-When I looked at the Canadian job market and the immigration points system, the math simply didn’t add up. The US market offered a significantly higher ceiling. But there was a catch: the US has strict CPT rules for international students, meaning I had to complete two full semesters before I could legally work off-campus. 
+When I checked the job boards, the bleak Canadian tech market was a harsh wake-up call. Combined with a rigid immigration points system, even a solid job didn't guarantee I could stay. The US offered a much higher ceiling, but strict CPT rules meant I had to complete two full semesters before legally working off-campus.
+
+Sure, I could have just clung to my prestigious degree, prayed for a lucky break in a scarce market, or started my career outside the Americas to try again later. But I refused to leave my career to chance. I decided to change the battlefield entirely—trading my "school name advantage" for the chance to build my own credibility from scratch. Working backward from my end goal, it was the only move that made sense.
 
 **I had to move fast.**
 
-I strategically transferred to Rutgers University. Was it a "safer" choice? Maybe not to everyone. But Rutgers gave me the academic bandwidth to dive deep into the software job market. People told me to wait and build my portfolio, but I realized that if you are proactive enough to reverse-engineer what you need, the path can be flexible. 
+I strategically transferred to Rutgers University. Was it a "safer" choice? Maybe not to everyone. But Rutgers gave me the academic bandwidth to dive deep into the software job market. People told me to wait and build my portfolio, but I realized that if you are proactive enough to reverse-engineer what you need, the path can be flexible.
 
 ## The 5 Core Lessons I Learned the Hard Way
 
