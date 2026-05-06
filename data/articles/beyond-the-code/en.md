@@ -57,8 +57,8 @@ Rather than passively waiting for a prestigious system to hand me credentials, I
 
 *It’s been an unconventional path, and I am still iterating on it every day.*
 
-## Let's Connect
+## Keep in Touch
 
-Which of these points resonates with your own experience the most? Or perhaps you want the specific tools and templates I used to break down Job Descriptions and reverse-engineer my learning path? 
+Honestly, I’m still figuring a lot of this out, and everyone's job hunt looks a bit different. If you're currently navigating this same messy process, I'd love to hear what's working for you. 
 
-Feel free to reach out to me at **AaronWu.official@gmail.com** — I'd love to chat and share what I've built!
+Also, if you just want to see the actual (and slightly chaotic) spreadsheets and templates I used to track my 770 applications and reverse-engineer Job Descriptions, just shoot me an email at **AaronWu.official@gmail.com**. I’m more than happy to send them over, or just bounce some ideas around if you're feeling stuck. 
