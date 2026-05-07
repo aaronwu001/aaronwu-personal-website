@@ -89,4 +89,6 @@ Whenever people ask me why I made those unconventional choices, how I actually e
 
 So, I’m sharing this with you here—whether you are a hiring manager evaluating my potential, a peer in the trenches, or just someone I know. 
 
-Honestly, I’m still iterating on this unconventional path every day, and everyone's job hunt looks a bit different. If you want to see the actual (and slightly chaotic) templates I used to track my applications and reverse-engineer Job Descriptions, just shoot me an email at **AaronWu.official@gmail.com**. I’m more than happy to send them over, or just bounce some ideas around if you're feeling stuck.
+Honestly, I’m still iterating on this unconventional path every day. If you are looking to hire and think my mindset and approach would be a good fit for your team, I’d love to explore opportunities to work together. Or, if you just want to discuss tech, bounce some ideas around, or check out the other topics I write about here on my blog, my inbox is always open.
+Just shoot me an email at **AaronWu.official@gmail.com** — I’d love to chat!
+
