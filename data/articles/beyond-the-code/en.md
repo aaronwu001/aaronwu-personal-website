@@ -28,6 +28,7 @@ I strategically transferred to Rutgers University. Was it a "safer" choice? Mayb
 During this chaotic transition, I absorbed a lot of methodologies. To navigate the overwhelm, I formalized my approach into what I mentally called my **"Survival Algorithm."** Here are the 5 core lessons that actually worked for me:
 
 **1. Breaking the "No Experience" Dead-End Loop**
+
 Everyone faces the same trap: you need experience to get an internship, but you need an internship to get experience. I quickly realized I just needed to start building a track record, so I took a low-paying internship in Taiwan, followed by unpaid roles. 
 
 To rapidly gain experience solving actual problems, I aggressively sought out Hackathons, developed for Enactus (a social entrepreneurship club), and became a tech project lead. Instead of hunting for problems myself, I collaborated with business students who had already spent months validating real-world demands. This allowed me to efficiently build my own portfolio of problem-solving stories. 
@@ -35,6 +36,7 @@ To rapidly gain experience solving actual problems, I aggressively sought out Ha
 However, my most crucial lesson was strategic selectivity. I often found myself distracted by the lure of building startups or creating social impact. I had to force myself to pull away—not because those goals are bad, but because my immediate priority was maximizing my technical knowledge to stay highly competitive in the job market, rather than building a business.
 
 **2. Competency > "Business Impact" (For Juniors)**
+
 I once thought I bombed an interview. The hiring manager drilled relentlessly into my data structures, completely ignoring my pitch about how my project sped up a data team's training time. Frustrated, I started researching how to find better "business metrics" to tell—until I unexpectedly got the offer. The manager told me I stood out simply because I could *"actually talk about my code."*
 
 We are constantly told to emphasize the "business impact" of our projects. But this manager taught me a truth: *even behind failed business projects, there are often brilliant engineers, and vice versa*. Therefore, business impact is an unreliable metric for recruiting an engineer. Managers are really just looking for competency and potential. They won’t hire you for an engineering role if you lack technical depth, even if your project revolutionized a market.
@@ -44,6 +46,7 @@ Discussions with other tech professionals confirmed this. But note that "compete
 Since different teams value different competencies, I realized I needed to build a wide arsenal and target the most in-demand ones. To figure out what those were, I turned to Job-Board and Interview-Driven Learning.
 
 **3. Job-Board & Interview-Driven Learning**
+
 Let’s look at a brutal number: as an international sophomore in 2025 with just one web dev internship, I submitted 770 applications and got just 2 paid offers (a 0.26% success rate). Opportunities were rare. I clearly didn't have the time to blindly fight for every single chance, so I had to optimize the process with experiments.
 
 **Job-board-prompted learning:** It’s easy to scrape open roles and get stats on what tools are most needed. But I soon realized many skills listed are just buzzwords to get past HR screening, or just "nice-to-haves." From text alone, you can’t tell if a niche skill is a strict requirement, or if a popular tool is a core fundamental versus just a strong trend. The only way to know what skills are genuinely valued, and why, is to ask the hiring managers themselves. That’s where interview-prompted learning comes in.
@@ -57,6 +60,7 @@ That’s when I knew an interview is a temporarily open window to learn whatever
 ![A snapshot of my raw data collection process—analyzing over 760 applications across Handshake and LinkedIn.](/images/articles/770-tracker.png)
 
 **4. Navigating Contradictory Advice (Go Talk to Real People)**
+
 Other than interviews, I tried getting insights online. But as my YouTube and search history filled up with tech career topics, I realized I couldn't really tell who the true insiders were, whether they could back up their claims, or if they even believed their own words. Observing patterns doesn't work when the platform's algorithm is pulling the strings. People endlessly argue over everything: what goes on top of your resume, whether you need a second major, if you should get a cloud certificate, or if you must contribute to open source. I just didn't know who to trust. 
 
 I realized way too late that in an in-person discussion, things get so much clearer and your curiosity can actually be addressed or extended.
@@ -70,6 +74,7 @@ But for the most helpful selection, I learned to seek out mentors who were exact
 As long as you are polite and audacious enough not to fear rejection, people are incredibly generous with their guidance.
 
 **5. Time Management as a Survival Tool**
+
 Navigating the job market, stressing over Taiwan's mandatory military service, and mapping out my academics was psychologically exhausting. I turned to the book *Make Time* and the *Getting Things Done (GTD)* methodology. 
 
 During my internship at AMD, while everyone else was out celebrating the 4th of July, I stayed in my room building my personal productivity system. People thought I was crazy, but I needed a way out of the anxiety. By offloading my chores into a GTD system and protecting my daily "Highlight," my mind became like still water, giving me the mental clarity to execute my next moves.
