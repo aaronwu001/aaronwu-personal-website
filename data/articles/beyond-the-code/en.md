@@ -1,6 +1,6 @@
 > **TL;DR:** This is the story of how I made the terrifying decision to leave the safety and prestige of the University of Toronto, scrambled to figure out the US tech job market as an international student, and eventually built a system that landed me roles on **AMD’s Systems Infrastructure team** and **Apple’s Developer Publications Platform team**.
 
-Hi, I’m Aaron Wu, currently an international **sophomore** at Rutgers University. I’m writing this to share my journey of relentlessly navigating the tech industry to find my place in software engineering. Along the way, I stumbled a lot, explored constantly, and learned some incredibly valuable lessons.
+Hi, I’m Aaron Wu, currently an international senior at Rutgers University. I’m writing this to share my journey of relentlessly navigating the tech industry to find my place in software engineering. Along the way, I stumbled a lot, explored constantly, and learned some incredibly valuable lessons.
 
 I’m writing this with a few different people in mind:
 *   **If you are a hiring manager or recruiter:** I hope this gives you a clear window into who I am, how I operate, and how I tackle challenges.
