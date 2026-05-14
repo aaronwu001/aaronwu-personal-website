@@ -25,6 +25,30 @@
     }
   },
   {
+    "id": "the-anti-framework-interview",
+    "date": "2026-05-14",
+    "title": {
+      "en": "Stop Over-Packaging Impact Metrics: The \"Anti-Framework\" Interview Lessons from AMD and Microsoft",
+      "zh": "別再過度包裝 Impact 數據了：AMD 與微軟面試官教會我的「反面試套路」"
+    },
+    "excerpt": {
+      "en": "After dozens of interviews and deep conversations with Big Tech managers, I realized a counter-intuitive truth: senior interviewers are immune to vague \"business impact\" metrics. What truly sets you apart is \"unfiltered honesty\" and \"relentless technical curiosity.\"",
+      "zh": "在經歷十幾場面試並與多位大廠主管深聊後，我領悟到的面試反直覺真相——資深面試官早就對空泛的「商業影響力」免疫。真正能讓你脫穎而出的，是「有底氣的誠實」與「刨根問底的技術好奇心」。"
+    },
+    "tags": [
+      "Career Strategy",
+      "Interview Hacks",
+      "Tech Culture",
+      "Mindset"
+    ],
+    "isExternal": false,
+    "contentPaths": {
+      "en": "data/articles/the-anti-framework-interview/en.md",
+      "zh": "data/articles/the-anti-framework-interview/zh.md"
+    }
+  }
+
+  {
     "id": "architecting-resilient-ai-gateway",
     "date": "2026-02-20",
     "title": {
