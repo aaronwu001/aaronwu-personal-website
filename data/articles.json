@@ -46,8 +46,7 @@
       "en": "data/articles/the-anti-framework-interview/en.md",
       "zh": "data/articles/the-anti-framework-interview/zh.md"
     }
-  }
-
+  },
   {
     "id": "architecting-resilient-ai-gateway",
     "date": "2026-02-20",
