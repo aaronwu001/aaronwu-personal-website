@@ -28,8 +28,8 @@
     "id": "the-anti-framework-interview",
     "date": "2026-05-14",
     "title": {
-      "en": "Stop Over-Packaging Impact Metrics: The \"Anti-Framework\" Interview Lessons from AMD and Microsoft",
-      "zh": "別再過度包裝 Impact 數據了：AMD 與微軟面試官教會我的「反面試套路」"
+      "en": "Ditch Empty Impact Metrics: The \"Anti-Framework\" Interview Lessons from AMD and Microsoft",
+      "zh": "別再迷信空洞的 Impact 數據：AMD 與微軟面試官教會我的「反面試套路」"
     },
     "excerpt": {
       "en": "After dozens of interviews and deep conversations with Big Tech managers, I realized a counter-intuitive truth: senior interviewers are immune to vague \"business impact\" metrics. What truly sets you apart is \"unfiltered honesty\" and \"relentless technical curiosity.\"",
