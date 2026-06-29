@@ -27,12 +27,12 @@
     "id": "beyond-the-code",
     "date": "2024-05-02",
     "title": {
-      "en": "Beyond the Code: From 770 Resumes to AMD & Apple",
-      "zh": "超越程式碼：從 770 份履歷到 AMD 與 Apple"
+      "en": "Beyond the Code: Stumbling, Learning, and Hacking the US Tech Market",
+      "zh": "不只寫程式：連滾帶爬、自我修復，我在美國科技市場的生存演算法"
     },
     "excerpt": {
-      "en": "A journey of dropping university prestige, reverse-engineering the job market, and using Interview-Prompted Learning to land top-tier infrastructure roles.",
-      "zh": "一段放棄大學光環、逆向工程求職市場，並利用面試驅動學習來獲得頂級基礎設施工程師職位的旅程。"
+      "en": "A journey of leaving a top-20 CS program, navigating the US job market as an international student, and building a 'Survival Algorithm' to land infrastructure roles at AMD and Apple from 770 applications.",
+      "zh": "放棄頂尖 CS 名校光環，以國際學生身分在美國科技就業市場中摸索。這是我如何建立「生存演算法」，從 770 封申請中斬獲 AMD 與 Apple 實習的真實紀錄。"
     },
     "tags": [
       "Career Strategy",
@@ -46,6 +46,29 @@
     "contentPaths": {
       "en": "data/articles/beyond-the-code/en.md",
       "zh": "data/articles/beyond-the-code/zh.md"
+    }
+  },
+  {
+    "id": "the-anti-framework-interview",
+    "date": "2026-05-14",
+    "title": {
+      "en": "Ditch Empty Impact Metrics: The \"Anti-Framework\" Interview Lessons from AMD and Microsoft",
+      "zh": "別再迷信空洞的 Impact 數據：AMD 與微軟面試官教會我的「反面試套路」"
+    },
+    "excerpt": {
+      "en": "After dozens of interviews and deep conversations with Big Tech managers, I realized a counter-intuitive truth: senior interviewers are immune to vague \"business impact\" metrics. What truly sets you apart is \"unfiltered honesty\" and \"relentless technical curiosity.\"",
+      "zh": "在經歷十幾場面試並與多位大廠主管深聊後，我領悟到的面試反直覺真相——資深面試官早就對空泛的「商業影響力」免疫。真正能讓你脫穎而出的，是「有底氣的誠實」與「刨根問底的技術好奇心」。"
+    },
+    "tags": [
+      "Career Strategy",
+      "Interview Hacks",
+      "Tech Culture",
+      "Mindset"
+    ],
+    "isExternal": false,
+    "contentPaths": {
+      "en": "data/articles/the-anti-framework-interview/en.md",
+      "zh": "data/articles/the-anti-framework-interview/zh.md"
     }
   },
   {
