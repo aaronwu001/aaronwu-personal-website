@@ -1,10 +1,10 @@
 [
   {
-    "id": "ai-governance-for-startups",
+    "id": "ai-governance-in-practice",
     "date": "2026-06-29",
     "title": {
-      "en": "Why Are Enterprise Clients Ghosting You? A Founder's First Lesson in AI Governance",
-      "zh": "為什麼企業客戶突然消失？新創創辦人的 AI 治理第一課"
+      "en": "AI Governance in Practice: What to Build and How to Answer the Hard Questions",
+      "zh": "AI 治理實戰：你需要建立什麼，以及如何回答那些尖銳問題"
     },
     "excerpt": {
       "en": "Your AI feature is flawless, but the enterprise client demanded a 'Risk Assessment'? Here is how to overcome 'Black Box' anxiety and win their trust with a practical three-layer governance framework.",
@@ -19,8 +19,8 @@
     ],
     "isExternal": false,
     "contentPaths": {
-      "en": "data/articles/ai-governance-for-startups/en.md",
-      "zh": "data/articles/ai-governance-for-startups/zh.md"
+      "en": "data/articles/ai-governance-in-practice/en.md",
+      "zh": "data/articles/ai-governance-in-practice/zh.md"
     }
   },
   {
