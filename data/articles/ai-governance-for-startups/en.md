@@ -26,12 +26,10 @@ What exactly are enterprise clients looking for when they hand over a massive ri
 
 For each of these risks, clients expect a clear breakdown across four dimensions:
 
-| Dimension | What They Want to Know |
-|---|---|
-| **Prevention** | What measures are in place? |
-| **Response** | What constitutes an incident, how is it handled, and how is it monitored? |
-| **Supervision** | What triggers a re-evaluation of these measures? |
-| **Accountability** | Who is explicitly responsible for decision-making? |
+- **Prevention**: What measures are in place?
+- **Response**: What constitutes an incident, how is it handled, and how is it monitored?
+- **Supervision**: What triggers a re-evaluation of these measures?
+- **Accountability**: Who is explicitly responsible for decision-making?
 
 Furthermore, they want to dig into the underlying logic:
 
@@ -140,4 +138,6 @@ Having a basic mental framework to apply to various cases is essential. Even a s
 
 ---
 
-*I am Aaron, a software engineer designing systems at the intersection of AI and enterprise infrastructure. I am turning these governance patterns into a reference implementation inside **FlashForm**, an open-source project. If you are working through similar challenges, follow along—the next post will cover **automated drift detection pipelines** and why model degradation is a ticking time bomb most teams ignore until it is too late.*
+As AI becomes embedded deeper into enterprise products, understanding AI governance is no longer just a compliance checkbox—it is increasingly a core competency for engineers and system designers. Knowing the basic logic behind governance frameworks and how they shape business trust and risk posture is becoming as foundational as understanding system availability or data security.
+
+If you are navigating similar challenges, or have thoughts on how your team approaches these questions, I would genuinely love to hear from you. Feel free to reach out or leave a comment below.
