@@ -16,13 +16,13 @@ const navItems = [
 ]
 
 const iconMap = {
-  github: Github,
   linkedin: Linkedin,
   mail: Mail,
 }
 
 export function Navbar() {
   const [scrolled, setScrolled] = React.useState(false)
+  const githubLink = siteConfig.socialLinks.find((link) => link.icon === "github")
 
   React.useEffect(() => {
     const handleScroll = () => {
@@ -61,7 +61,7 @@ export function Navbar() {
         </nav>
 
         <div className="flex items-center gap-4">
-          <div className="hidden md:flex items-center gap-3 mr-2">
+          <div className="hidden md:flex items-center gap-3">
             {siteConfig.socialLinks.map((link) => {
               const Icon = iconMap[link.icon as keyof typeof iconMap]
               if (!Icon) return null
@@ -71,6 +71,7 @@ export function Navbar() {
                   href={link.url}
                   target="_blank"
                   rel="noopener noreferrer"
+                  title={link.platform}
                   className="text-muted-foreground hover:text-foreground transition-colors"
                   aria-label={link.platform}
                 >
@@ -78,6 +79,18 @@ export function Navbar() {
                 </a>
               )
             })}
+            {githubLink && (
+              <a
+                href={githubLink.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="GitHub profile (opens in a new tab)"
+                className="inline-flex h-9 items-center gap-2 rounded-md border border-input bg-background px-3 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground"
+              >
+                <Github className="w-4 h-4" />
+                GitHub
+              </a>
+            )}
           </div>
           <ThemeToggle />
           <Link

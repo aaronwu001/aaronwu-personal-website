@@ -1,14 +1,13 @@
 "use client"
 import { motion } from "framer-motion"
 import siteConfig from "@/data/site.json"
-import { Mail, Rss } from "lucide-react"
+import { Mail } from "lucide-react"
 import { Github, Linkedin } from "@/components/ui/icons"
 
 const iconMap = {
   github: Github,
   linkedin: Linkedin,
   mail: Mail,
-  rss: Rss,
 }
 
 export function Contact() {
@@ -21,9 +20,9 @@ export function Contact() {
           viewport={{ once: true }}
           className="bg-muted/30 border border-border rounded-3xl p-10 md:p-16"
         >
-          <h2 className="text-3xl md:text-5xl font-bold mb-6">Let's Connect</h2>
+          <h2 className="text-3xl md:text-5xl font-bold mb-6">Let&apos;s Connect</h2>
           <p className="text-lg text-muted-foreground mb-6 max-w-xl mx-auto">
-            I'm currently looking for new opportunities. Whether you have a question or just want to say hi, my inbox is always open!
+            I&apos;m currently looking for new opportunities. Whether you have a question or just want to say hi, my inbox is always open!
           </p>
 
           <div className="flex flex-col items-center gap-4 mb-10">

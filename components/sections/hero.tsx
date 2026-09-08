@@ -2,9 +2,12 @@
 
 import { motion } from "framer-motion"
 import Image from "next/image"
+import { ArrowUpRight, Github } from "@/components/ui/icons"
 import siteConfig from "@/data/site.json"
 
 export function Hero() {
+  const githubUrl = siteConfig.socialLinks.find((link) => link.icon === "github")?.url
+
   return (
     <section id="hero" className="min-h-screen flex items-center justify-center pt-20 pb-12 overflow-hidden relative">
       <div className="container mx-auto px-4 relative z-10">
@@ -30,12 +33,22 @@ export function Hero() {
               {siteConfig.subHeadline}
             </p>
             <div className="flex flex-col sm:flex-row items-center gap-4 justify-center md:justify-start">
-              <a href="#projects" className="h-11 inline-flex items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90">
-                View Projects
+              <a href="#experience" className="h-11 inline-flex items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90">
+                View Experience
               </a>
-              <a href="/articles" className="h-11 inline-flex items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground">
-                Read Blog
-              </a>
+              {githubUrl && (
+                <a
+                  href={githubUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="GitHub profile (opens in a new tab)"
+                  className="h-11 inline-flex items-center justify-center gap-2 rounded-md border-2 border-foreground/25 bg-background px-6 text-sm font-semibold shadow-sm transition-colors hover:border-foreground/50 hover:bg-accent hover:text-accent-foreground"
+                >
+                  <Github className="w-5 h-5" />
+                  GitHub
+                  <ArrowUpRight className="w-4 h-4 opacity-60" />
+                </a>
+              )}
               <a href="/AaronWu_Resume.pdf" target="_blank" rel="noopener noreferrer" className="h-11 inline-flex items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground">
                 Download Resume
               </a>

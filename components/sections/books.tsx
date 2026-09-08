@@ -47,7 +47,7 @@ export function Books() {
         >
           <div className="flex items-center justify-center gap-3 mb-3">
             <BookOpen className="w-6 h-6 text-primary" />
-            <h2 className="text-2xl md:text-3xl font-bold">What I'm Reading</h2>
+            <h2 className="text-2xl md:text-3xl font-bold">What I&apos;m Reading</h2>
           </div>
           <p className="text-muted-foreground text-base max-w-2xl mx-auto">
             A curated list of books that have fundamentally shaped my approach to systems architecture, peak productivity, and the psychology of human behavior.

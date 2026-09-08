@@ -13,7 +13,7 @@ export function Experience() {
           viewport={{ once: true }}
           className="mb-16"
         >
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Experience</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Professional Experience</h2>
           <p className="text-muted-foreground text-lg">Real-world experience architecting resilient backend systems and enterprise AI infrastructure.</p>
         </motion.div>
 

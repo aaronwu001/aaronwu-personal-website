@@ -4,9 +4,6 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Navbar } from "@/components/ui/navbar";
 
-// We can import JSON directly in Server Components
-import siteConfig from "@/data/site.json";
-
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],

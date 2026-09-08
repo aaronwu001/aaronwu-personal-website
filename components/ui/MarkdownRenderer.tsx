@@ -3,7 +3,6 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { clsx, type ClassValue } from 'clsx'
 import { twMerge } from 'tailwind-merge'
-import Image from 'next/image'
 
 function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
@@ -28,7 +27,7 @@ export function MarkdownRenderer({ content, className }: MarkdownRendererProps) 
           ol: ({ node, ...props }) => <ol className="my-6 ml-6 list-decimal [&>li]:mt-2" {...props} />,
           li: ({ node, ...props }) => <li className="text-muted-foreground" {...props} />,
           strong: ({ node, ...props }) => <strong className="font-bold text-foreground" {...props} />,
-          blockquote: ({ node, children, ...props }) => {
+          blockquote: ({ children }) => {
             // Convert React nodes to text to check for TL;DR
             const getText = (nodes: React.ReactNode): string => {
               if (typeof nodes === 'string') return nodes;

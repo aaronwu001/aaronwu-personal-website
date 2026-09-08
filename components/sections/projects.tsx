@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import _projectsData from "@/data/projects.json"
 import { type Project } from "@/lib/types"
 import { ProjectModal } from "@/components/ui/project-modal"
-import { ExternalLink, Play, FileText } from "lucide-react"
+import { ExternalLink, Play } from "lucide-react"
 import { Github } from "@/components/ui/icons"
 
 const projectsData = _projectsData as Project[]
@@ -31,7 +31,7 @@ export function Projects() {
           viewport={{ once: true }}
           className="mb-12 text-center"
         >
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Featured Projects</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Side Projects</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             A showcase of my systems engineering work—tackling high-concurrency bottlenecks, distributed rate limiting, and peak-load shaving.
           </p>

@@ -1,6 +1,5 @@
 "use client"
 import { motion } from "framer-motion"
-import siteConfig from "@/data/site.json"
 
 const skillCategories = [
   {
