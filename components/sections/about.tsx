@@ -33,10 +33,10 @@ export function About() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              As an international student, rapid adaptation and navigating complex constraints are my baseline. I am a Backend Software Engineer deeply focused on AI Infrastructure and Distributed Systems.
+              I&apos;m a backend engineer focused on distributed systems and AI infrastructure. As an international student, adapting quickly and working within constraints is my baseline.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mt-4">
-              From deploying company-wide GraphRAG agents at AMD to translating federated learning math into code, my engineering philosophy is shaped by a constant intake of system design literature. I believe in prioritizing underlying technical competency over hypothetical impact—building systems designed to degrade gracefully and remain resilient under extreme load.
+              A steady diet of system design literature shapes how I work: get the underlying engineering right, and design for what happens when things fail.
             </p>
           </motion.div>
 

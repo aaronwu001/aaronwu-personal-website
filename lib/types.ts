@@ -1,6 +1,5 @@
 export type SiteConfig = {
   name: string;
-  headline: string;
   subHeadline: string;
   status: string;
   avatar: string;
@@ -18,7 +17,6 @@ export type Experience = {
   end: string;
   description: string;
   tags: string[];
-  details: string;
 };
 
 export type Project = {

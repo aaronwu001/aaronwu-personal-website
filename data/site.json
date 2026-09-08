@@ -1,8 +1,7 @@
 {
   "name": "Aaron Wu",
-  "headline": "Building High-Throughput, Low-Latency Distributed Systems for AI.",
-  "subHeadline": "I'm Aaron Wu. Heavily inspired by system design literature, I focus on turning complex ML research into production code and building high-concurrency infrastructure to protect AI services from traffic spikes.",
-  "status": "🚀 Actively looking for Summer 2026 Internships or 2027 New Grad roles in Backend Engineering, AI Infrastructure, and Distributed Systems.",
+  "subHeadline": "I'm Aaron Wu. I build backend systems that hold up under load, develop the AI agents that run on top of them, and turn ML algorithms into production code.",
+  "status": "🚀 Actively looking for Summer 2027 Internships or New Grad roles in Backend Engineering, AI Infrastructure, and Distributed Systems.",
   "avatar": "/images/profile.jpg",
   "socialLinks": [
     {

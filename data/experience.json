@@ -1,58 +1,76 @@
 [
   {
+    "company": "Macronix",
+    "role": "Platform Engineer Intern",
+    "start": "2026-07",
+    "end": "2026-08",
+    "description": "Worked on an on-prem Kubernetes platform: reworked how load was distributed across services, set up request-metric autoscaling with Envoy Gateway and KEDA, and shaped the direction of the team's observability stack.",
+    "tags": [
+      "Kubernetes",
+      "Envoy Gateway",
+      "KEDA",
+      "Observability"
+    ]
+  },
+  {
+    "company": "Ricoh Company, Ltd.",
+    "role": "AI Solutions Engineering Intern",
+    "start": "2026-06",
+    "end": "2026-07",
+    "description": "Evaluated a partner AI vendor from the buyer's side and turned their assurances into written governance commitments. Ran internal workshops on putting AI into everyday deployment and marketing work.",
+    "tags": [
+      "AI Governance",
+      "Vendor Assessment",
+      "Enterprise AI"
+    ]
+  },
+  {
     "company": "AMD",
     "role": "Systems Infrastructure Engineer Intern",
     "start": "2025-05",
     "end": "2025-08",
-    "description": "Architected a scalable GraphRAG-based AI agent to automate codebase understanding across 6 languages. Engineered a prompt-driven graph retrieval pipeline and optimized memory management with a plan-and-act algorithm.",
+    "description": "Rebuilt a codebase-grounded coding agent with GraphRAG and LangChain, retrieving over a multi-language code graph in Neo4j. Shipped it to the org-wide agent platform.",
     "tags": [
       "GraphRAG",
-      "Cypher",
       "LangChain",
-      "AI Infrastructure"
-    ],
-    "details": "Rebuilt agent for company-wide codebase understanding and generation. Enhanced explainability by controlling memory on Cypher generation & tracking task/context with plan-and-act algorithm. Conducted performance evaluations to drive system design decisions."
+      "Neo4j",
+      "AI Agents"
+    ]
   },
   {
     "company": "Rutgers University",
     "role": "Research Assistant (Federated Learning)",
     "start": "2025-09",
     "end": "2026-01",
-    "description": "Conducted empirical experiments on federated hyperparameter learning algorithms, specifically addressing challenges with heterogeneous datasets and data sparsity.",
+    "description": "Ran empirical experiments on a randomized federated hyperparameter-learning algorithm, testing how it behaves on sparse, non-IID data.",
     "tags": [
       "Federated Learning",
       "Python",
-      "Machine Learning",
       "Research"
-    ],
-    "details": "Built data processing and evaluation pipelines using Scikit-Learn, Pandas, and NumPy to benchmark algorithm performance on the CIFAR-10 dataset. Validated algorithmic robustness through rigorous statistical analysis."
+    ]
   },
   {
     "company": "Rutgers University",
     "role": "Technical Lead",
     "start": "2025-01",
     "end": "2025-05",
-    "description": "Directed the architectural shift toward a real-time voice assistant app. Engineered a serverless RAG pipeline utilizing AWS Lambda and Pinecone vector database for automated daily data ingestion.",
+    "description": "Led a student team building a real-time voice news assistant, and built the serverless RAG pipeline behind it on AWS Lambda and Pinecone.",
     "tags": [
       "AWS Lambda",
       "Pinecone",
-      "RAG",
-      "Serverless Architecture"
-    ],
-    "details": "Mentored beginner developers in Agile/Scrum methodologies. Built a personalized, multi-source news insights application, setting up scalable embedding retrieval to position the app for launch."
+      "RAG"
+    ]
   },
   {
     "company": "QT Medical, Inc.",
     "role": "R&D Intern",
     "start": "2024-07",
     "end": "2024-08",
-    "description": "Designed and deployed an end-to-end ML data annotation platform on AWS (EC2, S3, RDS) in 12 days. Automated Python ETL workflows to securely process ECG data, increasing doctor efficiency by 70%.",
+    "description": "Built an ECG annotation platform end to end on AWS, so physicians could label diagnoses themselves instead of passing files around on-site.",
     "tags": [
       "AWS",
       "Python",
-      "ETL",
-      "System Security"
-    ],
-    "details": "Saved 3+ hours of weekly manual file management tasks. Implemented secure backend architecture with SHA-256 data hashing and optimized system usability through rapid, user-feedback-driven agile iterations."
+      "ETL"
+    ]
   }
 ]

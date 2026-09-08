@@ -31,7 +31,7 @@ export function Contact() {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
               </span>
-              Open for Summer 2026 Internships & 2027 New Grad roles.
+              Open for Summer 2027 Internships & New Grad roles.
             </div>
             <a href="mailto:aaronwu.official@gmail.com" className="text-xl md:text-2xl font-bold hover:text-primary transition-colors">
               aaronwu.official@gmail.com
